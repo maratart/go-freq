@@ -1,6 +1,6 @@
 /*
-Gofreq counts frequencies for words in stdin.
-Input: Text in an text file or in stdin
+Gofreq counts frequencies for words in stdin or in the file.
+Input: Text in an text file or in stdin.
 Output: List of words and frequency of words in stdout.
 */
 
